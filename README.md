@@ -1,0 +1,2 @@
+# internship_hachidori_server
+サーバーエンジニアの体験入社用
